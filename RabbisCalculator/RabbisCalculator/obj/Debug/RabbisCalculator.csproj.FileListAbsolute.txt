@@ -1,0 +1,11 @@
+D:\RabbisCalculator\RabbisCalculator\bin\Debug\RabbisCalculator.exe.config
+D:\RabbisCalculator\RabbisCalculator\bin\Debug\RabbisCalculator.exe
+D:\RabbisCalculator\RabbisCalculator\bin\Debug\RabbisCalculator.pdb
+D:\RabbisCalculator\RabbisCalculator\obj\Debug\RabbisCalculator.csproj.AssemblyReference.cache
+D:\RabbisCalculator\RabbisCalculator\obj\Debug\RabbisCalculator.csproj.SuggestedBindingRedirects.cache
+D:\RabbisCalculator\RabbisCalculator\obj\Debug\RabbisCalculator.Form1.resources
+D:\RabbisCalculator\RabbisCalculator\obj\Debug\RabbisCalculator.Properties.Resources.resources
+D:\RabbisCalculator\RabbisCalculator\obj\Debug\RabbisCalculator.csproj.GenerateResource.cache
+D:\RabbisCalculator\RabbisCalculator\obj\Debug\RabbisCalculator.csproj.CoreCompileInputs.cache
+D:\RabbisCalculator\RabbisCalculator\obj\Debug\RabbisCalculator.exe
+D:\RabbisCalculator\RabbisCalculator\obj\Debug\RabbisCalculator.pdb
